@@ -1,0 +1,2 @@
+public class White : Ball {
+}
